@@ -6,7 +6,8 @@ module.exports = function(grunt) {
 			options: {
 				smarttabs: false
 			},
-			all: ['Gruntfile.js', 'test/test.js', 'src/skrollr.js', 'src/plugins/skrollr.ie.js', 'src/plugins/skrollr.menu.js', 'src/mobile/skrollr.mobile.js']
+			all: ['Gruntfile.js', 'test/test.js', 'src/skrollr.js', 'src/plugins/skrollr.ie.js', 
+        'src/plugins/skrollr.menu.js', 'src/mobile/skrollr.mobile.js']
 		},
 		qunit: {
 			all: ['test/index.html']
