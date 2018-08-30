@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "skrollr-master/package.json"
+      ]
+    }
+  }
+}
